@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Pallavi
 
-<!--
-**Pallavi-vi-1234/Pallavi-vi-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring AI & Machine Learning Engineer  
+💻 Python Developer  
+🚀 Passionate about building beginner-friendly projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Basic Machine Learning
+- Problem Solving
+- Logical Thinking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/m-pallavi-310469310)
