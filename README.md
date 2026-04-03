@@ -1,5 +1,62 @@
 # 💫 About Me:
-iam a AIML engineering student
+# 👩‍💻 Pallavi Mali
+
+🎓 Pre-Final Year B.E. Student | Artificial Intelligence & Machine Learning  
+💡 Aspiring AI/ML Engineer | Passionate about Data, Machine Learning, and Intelligent Systems
+
+---
+
+## 👩‍🎓 About Me
+I am a **Pre-Final Year Engineering Student specializing in Artificial Intelligence and Machine Learning**.  
+I am passionate about developing innovative solutions using **AI, Machine Learning, and Data Science** to solve real-world problems.
+
+I enjoy learning new technologies, working on practical projects, and continuously improving my technical skills in **AI, computer vision, and web development**.
+
+---
+
+## 🧠 Technical Skills
+
+**Programming Languages**
+- Python
+- JavaScript
+- SQL
+- DSA
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+
+**AI & Machine Learning**
+- Machine Learning
+- Computer Vision
+- Data Analysis
+- OpenCV
+- Basic Deep Learning
+
+**Tools & Platforms**
+- Git
+- GitHub
+- Google Colab
+- Jupyter Notebook
+
+---
+
+**Technologies Used:**
+- Python
+- OpenCV
+- Machine Learning
+- HTML, CSS, JavaScript
+
+---
+
+## 📚 Currently Learning
+- Deep Learning
+- Neural Networks
+- Advanced Computer Vision
+- AI Model Optimization
+
+⭐ *Pre-Final Year AI & ML Engineering Student passionate about building intelligent and impactful technology solutions.*
 
 
 ## 🌐 Socials:
