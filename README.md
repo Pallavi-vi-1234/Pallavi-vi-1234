@@ -12,22 +12,13 @@ I am passionate about developing innovative solutions using **AI, Machine Learni
 
 I enjoy learning new technologies, working on practical projects, and continuously improving my technical skills in **AI, computer vision, and web development**.
 
----
-
-
--
-
 **Tools & Platforms**
 - Git
 - GitHub
 - Google Colab
 - Jupyter Notebook
 
----
-
-
-
-⭐ *Pre-Final Year AI & ML Engineering Student passionate about building intelligent and impactful technology solutions.*
+---⭐ *Pre-Final Year AI & ML Engineering Student passionate about building intelligent and impactful technology solutions.*
 
 
 ## 🌐 Socials:
