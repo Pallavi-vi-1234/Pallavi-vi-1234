@@ -14,25 +14,8 @@ I enjoy learning new technologies, working on practical projects, and continuous
 
 ---
 
-## 🧠 Technical Skills
 
-**Programming Languages**
-- Python
-- JavaScript
-- SQL
-- DSA
-
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-
-**AI & Machine Learning**
-- Machine Learning
-- Computer Vision
-- Data Analysis
-- OpenCV
-- Basic Deep Learning
+-
 
 **Tools & Platforms**
 - Git
@@ -42,19 +25,7 @@ I enjoy learning new technologies, working on practical projects, and continuous
 
 ---
 
-**Technologies Used:**
-- Python
-- OpenCV
-- Machine Learning
-- HTML, CSS, JavaScript
 
----
-
-## 📚 Currently Learning
-- Deep Learning
-- Neural Networks
-- Advanced Computer Vision
-- AI Model Optimization
 
 ⭐ *Pre-Final Year AI & ML Engineering Student passionate about building intelligent and impactful technology solutions.*
 
